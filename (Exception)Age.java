@@ -37,7 +37,7 @@ class Son extends Father {
 }
 
 
-public class Main {
+public class Age {
     public static void main(String[] args) {
        
         try {
