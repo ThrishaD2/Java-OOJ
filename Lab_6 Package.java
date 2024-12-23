@@ -156,3 +156,57 @@ public class Main {
         scanner.close();
     }
 }
+OUTPUT
+    Enter number of students: 2
+
+Enter USN for student 1: 12345
+Enter name for student 1: anu
+Enter semester for student 1: 3
+Enter internal marks for 5 courses:
+21
+22
+23
+24
+25
+Enter external marks for 5 courses:
+60
+79
+89
+90
+100
+
+Enter USN for student 2: 09876
+Enter name for student 2: anji
+Enter semester for student 2: 3
+Enter internal marks for 5 courses:
+23
+24
+25
+26
+27
+Enter external marks for 5 courses:
+89
+90
+98
+88
+89
+
+Final Marks for Students:
+
+Student 1: anu (12345)
+Semester: 3
+Final Marks:
+Course 1: 81
+Course 2: 101
+Course 3: 112
+Course 4: 114
+Course 5: 125
+
+Student 2: anji (09876)
+Semester: 3
+Final Marks:
+Course 1: 112
+Course 2: 114
+Course 3: 123
+Course 4: 114
+Course 5: 116
