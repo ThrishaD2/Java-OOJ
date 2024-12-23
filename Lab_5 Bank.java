@@ -102,3 +102,39 @@ class CurAcct extends Account {
         }
     }
 }
+OUTPUT
+    Enter account type (savings/current):
+savings
+Enter customer name:
+anu
+Enter account number:
+1234567890
+Initial balance and interest rate:
+3400
+600
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+1
+500
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+2
+Savings Balance: 3900.0
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+3
+100
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+2
+Savings Balance: 3800.0
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+4
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+2
+Savings Balance: 26600.0
+
+1. Deposit 2. Display Balance 3. Withdraw 4. Interest 5. Exit
+5
