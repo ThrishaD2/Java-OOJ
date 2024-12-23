@@ -35,3 +35,45 @@ public class MultiThreadExample {
         cseThread.start();
     }
 }
+OUTPUT
+ CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE
+CSE
+BMS College of Engineering
+CSE
+CSE
+CSE
+CSE   
