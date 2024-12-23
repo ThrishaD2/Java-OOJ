@@ -49,3 +49,27 @@ student.acceptDetails();
 student.displayDetails();
 }
 }
+
+
+OUTPUT
+  Enter the number of subjects:
+2
+ENTER USN:
+12345
+ENTER NAME:
+anu
+ENTER CREDITS:1
+21
+ENTER MARKS:1
+60
+ENTER CREDITS:2
+21
+ENTER MARKS:2
+40
+
+ STUDENT DETAILS:
+USN:12345
+NAME:anu
+SUBJECT1 CREDITS:21 MARKS:60
+SUBJECT2 CREDITS:21 MARKS:40
+SGPA:50.0
