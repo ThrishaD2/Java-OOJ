@@ -44,3 +44,42 @@ System.out.println();
 }
 }
 }
+
+OUTPUT
+  Enter the number of books
+2
+enter name of the book:
+motivation
+enter author of the book:
+william
+enter price of the book:
+500
+enter number of pages of the book:
+1999
+Name of the book:motivation
+Author of the book:william
+Price of the book:500.0
+Number of pages of the book:1999
+enter name of the book:
+story
+enter author of the book:
+shakesphere
+enter price of the book:
+600
+enter number of pages of the book:
+6789
+Name of the book:story
+Author of the book:shakesphere
+Price of the book:600.0
+Number of pages of the book:6789
+
+ All book details:
+Book Name:motivation
+Author:william
+price:500.0
+Number of pages:1999
+
+Book Name:story
+Author:shakesphere
+price:600.0
+Number of pages:6789
