@@ -38,3 +38,7 @@ System.out.println("Area of triangle:"+t.printArea());
 System.out.println("Area of circle:"+c.printArea());
 }
 }
+OUTPUT 
+  Area of rectangle:24000.0
+  Area of triangle:100.0
+  Area of circle:314.0
