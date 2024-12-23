@@ -59,3 +59,9 @@ public class Age {
         }
     }
 }
+OUTPUT
+    Error: Age cannot be negative for Father.
+Father's age is 40
+Error: Son's age cannot be greater than or equal to Father's age.
+Father's age is 40
+Son's age is 30
